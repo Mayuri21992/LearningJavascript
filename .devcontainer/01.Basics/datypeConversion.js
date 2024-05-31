@@ -9,3 +9,6 @@ let numberNum= Number(num)
 console.log(numberNum,typeof numberNum)
 //it will print not an number number with letters not convertale it gives output as NaN
 
+console.log(1+"2"+1);
+console.log(1+2+1);
+console.log(1+2+"1");
